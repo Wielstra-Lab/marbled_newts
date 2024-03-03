@@ -1,0 +1,4 @@
+sample.id	sample.number	pop.code
+A1002	A1002	Pop1
+B1063	B1063	Pop2
+C1434	C1434	Pop1
